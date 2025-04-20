@@ -1,0 +1,15 @@
+C:\Users\ZygoteCode\Desktop\MCBOT\bin\Release\net7.0\MCBOT.exe
+C:\Users\ZygoteCode\Desktop\MCBOT\bin\Release\net7.0\MCBOT.deps.json
+C:\Users\ZygoteCode\Desktop\MCBOT\bin\Release\net7.0\MCBOT.runtimeconfig.json
+C:\Users\ZygoteCode\Desktop\MCBOT\bin\Release\net7.0\MCBOT.dll
+C:\Users\ZygoteCode\Desktop\MCBOT\bin\Release\net7.0\MCBOT.pdb
+C:\Users\ZygoteCode\Desktop\MCBOT\obj\Release\net7.0\MCBOT.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\MCBOT\obj\Release\net7.0\MCBOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZygoteCode\Desktop\MCBOT\obj\Release\net7.0\MCBOT.AssemblyInfoInputs.cache
+C:\Users\ZygoteCode\Desktop\MCBOT\obj\Release\net7.0\MCBOT.AssemblyInfo.cs
+C:\Users\ZygoteCode\Desktop\MCBOT\obj\Release\net7.0\MCBOT.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\MCBOT\obj\Release\net7.0\MCBOT.dll
+C:\Users\ZygoteCode\Desktop\MCBOT\obj\Release\net7.0\refint\MCBOT.dll
+C:\Users\ZygoteCode\Desktop\MCBOT\obj\Release\net7.0\MCBOT.pdb
+C:\Users\ZygoteCode\Desktop\MCBOT\obj\Release\net7.0\MCBOT.genruntimeconfig.cache
+C:\Users\ZygoteCode\Desktop\MCBOT\obj\Release\net7.0\ref\MCBOT.dll
